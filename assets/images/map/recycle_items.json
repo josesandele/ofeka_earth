@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"recycle_items.png",
+ "imageheight":64,
+ "imagewidth":515,
+ "margin":0,
+ "name":"recycle_items",
+ "spacing":0,
+ "tilecount":128,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

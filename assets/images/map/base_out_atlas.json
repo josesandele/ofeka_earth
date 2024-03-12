@@ -1,0 +1,14 @@
+{ "columns":64,
+ "image":"..\/base_out_atlas.png",
+ "imageheight":1024,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"base_out_atlas",
+ "spacing":0,
+ "tilecount":4096,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
